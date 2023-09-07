@@ -1,3 +1,4 @@
+
 <h2 align="left">Hi there, welcome to Catxrine's profile☕</h2>
 
 ###
@@ -8,7 +9,9 @@
 </div>
 
 ###
+
 </div>
+<div class="container">
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -38,11 +41,14 @@
   <a href="https://www.linkedin.com/in/teodora-nikiforova-5a2a44255/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+<h2>🚀Currently working on</h2>
+<a href="https://github.com/GameBear64/AmberCamp">Amber Camp</a>
 </div>
+<div align="right">
 
-
-
-
+  
+</div>
+</div>
 
 
 
