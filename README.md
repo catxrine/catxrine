@@ -38,11 +38,9 @@
   <a href="mailto:catxrin@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=1c1c1c&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/teodora-nikiforova-5a2a44255/" target="_blank">
+  <a href="https://www.linkedin.com/in/teodora-nikiforova" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-<h2>🚀Currently working on</h2>
-<a href="https://github.com/GameBear64/AmberCamp">Amber Camp</a>
 </div>
 <div align="right">
 
